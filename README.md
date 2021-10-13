@@ -76,41 +76,41 @@ The files are organized into folders and subfolders. Main folders contans sub gr
 
 - **Folder Labels**:
   - Animals
-    - bird
-    - cat
-    - dog
+        - bird
+        - cat
+        - dog
   - Miscellaneous
-    - _background_noise\_
-    - happy
-    - house
-    - wow
+        - _background_noise\_
+        - happy
+        - house
+        - wow
   - Number
-    - one
-    - two
-    - three
-    - four
-    - five
-    - six
-    - seven
-    - eight
-    - nine
-    - zero
+        - one
+        - two
+        - three
+        - four
+        - five
+        - six
+        - seven
+        - eight
+        - nine
+        - zero
   - People
-    - marvin
-    - sheila
+        - marvin
+        - sheila
   - Simple Commands
-    - bed
-    - down
-    - go
-    - left
-    - no
-    - off
-    - on
-    - right
-    - stop
-    - tree
-    - up
-    - yes
+        - bed
+        - down
+        - go
+        - left
+        - no
+        - off
+        - on
+        - right
+        - stop
+        - tree
+        - up
+        - yes
 
 ## Processing
 
